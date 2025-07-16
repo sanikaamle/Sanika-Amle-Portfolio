@@ -12,7 +12,7 @@
   "routes": [
     {
       "src": "/api/(.*)",
-      "dest": "/portfolio-backend/api/index.js"
+      "dest": "/api/index.js"
     },
     {
       "handle": "filesystem"
@@ -23,7 +23,7 @@
     }
   ],
   "functions": {
-    "portfolio-backend/api/index.js": {
+    "api/index.js": {
       "maxDuration": 30
     }
   }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Frontend
 
 React frontend application for Sanika Amle's portfolio website.
@@ -45,3 +46,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Environment Variables
 
 Create a `.env` file in the root directory and add:
+=======
+# frontendforportfolio
+>>>>>>> bfb22310097bf5e27aa9afba696e84471092306d
